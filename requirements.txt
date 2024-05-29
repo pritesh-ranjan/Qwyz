@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+numexpr
+wikipedia
+youtube-transcript-api
+PyPDF2
+faiss-cpu%
