@@ -8,7 +8,7 @@ from langchain_helper import user_input, get_pdf_text, get_youtube_transcript, g
 
 async def main():
     if 'is_doc_loaded' not in st.session_state:
-        st.session_state['is_doc_loaded'] = True
+        st.session_state['is_doc_loaded'] = False
         
     st.set_page_config("Chat PDF")
     st.header("Chat with PDF using Gemini💁")
