@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# vector store
+faiss_index/
+
 # Distribution / packaging
 .Python
 build/
